@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the most lamentable burning of the cittie of Corke, in the west of Ireland, in the province of Monster, by thunder and lightning With other most dolefull and miserable accidents, which fell out the last of May 1622. after the prodigious battell of the birds called stares, which fought strangely over and neare that citie the 12. &amp; 14. of May 1621. As it hath beene reported to divers right honourable persons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19341</idno>
+            <idno type="STC">STC 5766</idno>
+            <idno type="STC">ESTC S108693</idno>
+            <idno type="EEBO-CITATION">99844349</idno>
+            <idno type="PROQUEST">99844349</idno>
+            <idno type="VID">9153</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the most lamentable burning of the cittie of Corke, in the west of Ireland, in the province of Monster, by thunder and lightning With other most dolefull and miserable accidents, which fell out the last of May 1622. after the prodigious battell of the birds called stares, which fought strangely over and neare that citie the 12. &amp; 14. of May 1621. As it hath beene reported to divers right honourable persons.</title>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed this 24. of Iune. 1622. London printed by I[ohn] D[awson] for Nicholas Bourne, and Thomas Archer,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cork (Ireland) --  History --  Fire, 1622 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9153:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:9153:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <pb facs="tcp:9153:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb facs="tcp:9153:2"/>
+            <!-- PDF PAGE 65 -->
+            <p>A RELATION O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Moſt lamentable Burning of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Corke,</hi> in the weſt of <hi>Ireland,</hi> in the Province of MONSTER, by Thunder and Lightning. <hi>With ether moſt dolefull and miſerable Accidents,</hi> which fell out the laſt of <hi>May</hi> 1622 after the <hi>prodigious barrell of the birds called</hi> Stares, which fought ſtrangely over and meare that Cit<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the 12. &amp; 14. of <hi>May</hi> 1623. <hi>As it hath beene Reported to divers Right Honourable</hi> PERSONS.</p>
+            <figure>
+               <figDesc>men work with fire-fighting equipment in a burning town</figDesc>
+            </figure>
+            <p>
+               <hi>Printed this</hi> 20 <hi>of Iune.</hi> 1622. LONDON Printed by <hi>I. D.</hi> for <hi>Nicholas Bourne,</hi> and <hi>Thomas Archer,</hi> 1622.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:9153:3"/>
+            <!-- PDF PAGE 66 -->
+            <pb facs="tcp:9153:3"/>
+            <!-- PDF PAGE 66 -->
+            <head>
+               <g ref="char:leaf">❧</g> To the courteous Reader.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>Hriſtian Reader;</salute>
+            </opener>
+            <p>There was this laſt yeare <hi>1621.</hi> in October laſt, publi<g ref="char:EOLhyphen"/>ſhed a report of a wonderfull battell fought betwixt cer<g ref="char:EOLhyphen"/>taine birdes, called <hi>Stares,</hi> or <hi>Sterlings,</hi> at and neare a Cittie in <hi>Ireland</hi> called <hi>Corke,</hi> which was ſo ſtrange and admirable an acci<g ref="char:EOLhyphen"/>dent, as the like hath very ſeldome or never bin heard of, or regiſtred in any Hiſtory in moderne or former ages. This report being ſo ſtrange, was of ſome cenſured as an vntrue and idle invention, Of others, which vnderſtood, and by enquirie were reſolved of the truth, it was ima<g ref="char:EOLhyphen"/>gined to prognoſticate ſome ſtrange and dreadfull acci<g ref="char:EOLhyphen"/>dent to follow, as warres, plagues or peſtilence, with ſuch like coniectures. Sithence which time, namely, this laſt of <hi>May 1622.</hi> the <hi>Omnipotent Maieſtie</hi> of heaven hath not onely reprooved their vanitie, who would not beleeue ſo ſtrange a Relation, but hath fur<g ref="char:EOLhyphen"/>ther by a moſt dreadfull and lamentable demonſtration
+<pb facs="tcp:9153:4"/>
+               <!-- PDF PAGE 67 -->of his power and Iuſtice, reſolved what that battell of Birds might or did prognoſticate, wherein his Iuſtice in one reſpect may be feared, and his mercy by ſo exem<g ref="char:EOLhyphen"/>plar a manifeſtation may be ſought after in another. In what manner this battell of Birds was performed, is needles in this place to be repeated, becauſe the relation is extant in Print, albeit, fitting for the Reader to know, becauſe he ſhall thereby vnderſtand, how di<g ref="char:EOLhyphen"/>rectly this dreadfull, and moſt terrible late Accident in <hi>Corke,</hi> was prognoſticated in the clamorous and cru<g ref="char:EOLhyphen"/>ell fight of the <hi>Stares,</hi> at and neare vnto <hi>Corke,</hi> where the <hi>Stares</hi> began their fiery and furious fight at the Eaſt end of the Cittie; there began the firſt ori<g ref="char:EOLhyphen"/>ginall of the ruine of <hi>Corke:</hi> And as the Birds pro<g ref="char:EOLhyphen"/>ceeded in their fight, ſo did the Cittie of <hi>Corke</hi> con<g ref="char:EOLhyphen"/>ſume by fire from heaven, as it is more plainely deli<g ref="char:EOLhyphen"/>vered in the Relation following, to which I leaue thee.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:9153:4"/>
+            <!-- PDF PAGE 67 -->
+            <head>A RELATION OF THE MOST LAMENTABLE Burning of the Cittie of <hi>Corke</hi> in the Weſt of <hi>Ireland,</hi> in the Province of MONSTER, by Thunder and Lightning.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Cittie of <hi>Corke</hi> hath his beginning vpon the ſide of an Hill, which diſcendeth ea<g ref="char:EOLhyphen"/>ſily into one wide and long ſtreete; The onely principall and chiefe ſtreete of the Cittie. At the firſt en<g ref="char:EOLhyphen"/>trance there is a Caſtle, called <hi>Shandon Caſtle.</hi>
+               <pb n="3" facs="tcp:9153:5"/>
+               <!-- PDF PAGE 68 -->And almoſt over againſt it, a Church built of Stone, as the Caſtle is a kinde of Mar<g ref="char:EOLhyphen"/>ble, of which that Country yeeldeth ſtore. The Cittie hath many houſes built of the ſame ſtone, and covered with Slate. But the greateſt number of houſes are built with Tymber, or Mudde walles, and co<g ref="char:EOLhyphen"/>vered with Thatch.</p>
+            <p>This laſt of <hi>May,</hi> being the moſt pleaſant and delightfull moneth of the yeare; To take his farewell, gaue it in the moſt rue<g ref="char:EOLhyphen"/>full and terrible manner, the like ſeldome heard of, or ſeene in any Country, or heard of in any Age, ſince the beginning of the World. The Citties of <hi>Sodome</hi> and <hi>Gomorrah</hi> were not more ſuddainely, or more horri<g ref="char:EOLhyphen"/>bly conſumed with fire from heaven, then this Cittie of <hi>Corke</hi> was this laſt of <hi>May:</hi> Albeit I compare this Cittie with <hi>Sodome</hi> and <hi>Gomorrah,</hi> it is not in reſpect of the ſinnes, but in reſpect of the heavy hand of God ſhewed in like degree. To conſume by fire from Heaven eyther of them, the ſinnes of <hi>Sodome</hi> are by the Scriptures made knowne, which are, and ever will be knowne, by the names of the ſinnes of
+<pb n="3" facs="tcp:9153:5"/>
+               <!-- PDF PAGE 68 -->
+               <hi>Sodome.</hi> No queſtion but this Cittie of <hi>Corke</hi> had her ſinnes: Otherwiſe the hand of God had not falne ſo heavily vpon her, but they are not made ſo apparant as the ſinnes of <hi>Sodome.</hi> But if <hi>Vox Populi,</hi> be <hi>Vox Dei,</hi> If the people of the Country adioy<g ref="char:EOLhyphen"/>ning round about them, may be taken for witneſſes, for ſufficient proofe of their ſinnes, which might provoke the wrath of God vpon them: The Citizens, and In<g ref="char:EOLhyphen"/>habitants of <hi>Corke,</hi> haue beene taxed and noted for <hi>Vſury,</hi> (the chiefeſt Daughter of Covetouſneſſe) to exceed any Cittie in the Kings Dominions, except ſome Citties in <hi>England,</hi> which as they are farre greater in quantitie, ſo I feare they doe as much ex<g ref="char:EOLhyphen"/>ceed in qualitie of the ſame ſinne. But of this more hereafter, when I ſhall haue paſſed over this lamentable Narration of <hi>Corke.</hi> This laſt of <hi>May,</hi> being Fryday, be<g ref="char:EOLhyphen"/>twixt eleven and twelue of the Clocke, the Cloudes over the Cittie began to ga<g ref="char:EOLhyphen"/>ther thicke, which cauſed ſuch a darknes in their houſes, that they were amazed to behold ſo ſodaine a darkenes. Theſe darke Cloudes ſeemed to Muſter together, and
+<pb n="4" facs="tcp:9153:6"/>
+               <!-- PDF PAGE 69 -->to deſcend by degrees nearer to the Cittie. Whileſt the Inhabitants ſtood thus won<g ref="char:EOLhyphen"/>dering at the extraordinary darkenes, ſud<g ref="char:EOLhyphen"/>denly they heard a terrible clappe of thun<g ref="char:EOLhyphen"/>der; And at the ſame inſtant they ſaw a dreadfull lightning, with flames of fire breake out of the Cloudes, and fall vpon the Cittie at the ſame inſtant, at the Eaſt end, and the higheſt part of the Cittie. At that very place where the Stares beganne their Battell, and where they firſt fell downe, being killed in the fight; There the fire firſt began with horrible flames: which the Inhabitants of the Weſt and lower part of the Cittie beholding, they began haſtily to run towardes the Eaſt part where the fire began. They were not runne halfe the way, when as they heard a woefull cry of fire behinde them, for the Weſt part was alſo ſet on fire. Be<g ref="char:EOLhyphen"/>twixt two fires, being amazed and con<g ref="char:EOLhyphen"/>founded, not knowing what to doe, the flames of fire raged alſo extreamely in the middeſt of the houſes on both ſides of the ſtreete. Albeit, they had great aboundance of water neare at hand, there was no
+<pb n="5" facs="tcp:9153:6"/>
+               <!-- PDF PAGE 69 -->meanes to be had, nor any endevour to be vſed to quench the flames. For the fire was ſo ſodaine, the flames ſo hot, and ra<g ref="char:EOLhyphen"/>ging, that there was no poſſibilitie to come neare them. For the fire which fal<g ref="char:EOLhyphen"/>leth from Heaven is vnquencheable, and rageth with that violent heate, as may not be endured. So that the Inhabitants ſeeing all their labours and indevours to be ſpent in vaine, and many conſumed which adventured too neare, to ſaue their goods, their wiues or children; then they reſolue to ſaue themſelues by running and flying out of the Citie into the fields, and to an Iland adioyning neare vnto the Cit<g ref="char:EOLhyphen"/>tie. Some were ſaved by this meanes: But thoſe who were in the Cittie were ſo encloſed vpon bothſides with fire, that they were brought into miſerable extrea<g ref="char:EOLhyphen"/>mities. Theſe had no other meanes to ſaue themſelues, but to fly for refuge into the Churches. There were in this Cittie three Churches, all which were filled with people tormented with woe and terrour. For albeit they were in the Chur<g ref="char:EOLhyphen"/>ches covered with Slate, and built other<g ref="char:EOLhyphen"/>wiſe
+<pb n="6" facs="tcp:9153:7"/>
+               <!-- PDF PAGE 70 -->with thicke ſtone walles, yet this was no ſecuritie vnto them, when as they had nothing to hope for, but a dreadfull expectation every minute of an houre, when the Churches would be fired alſo. For they could not goe out of the Chur<g ref="char:EOLhyphen"/>ches, the fire raged ſo on all ſides. And in the Churches they heard nothing but clamors and out-cries. Every mans feare was a tor<g ref="char:EOLhyphen"/>ment, not onely to himſelfe, but to others generally. For the houſes round about the Churches flaming, vpon every glimce of fire, the cry was rayſed, the Church is now on fire; now we ſhall all be conſumed. This was the miſerable and woefull caſe of thoſe who fled to the Churches. Now for thoſe who remained in the ſtreets (as all people whoſe weakneſſe might not ſhift for themſelues) or yong children, whoſe want of diſcretion could not foreſee how to avoyd the danger; or ſuch perſons who loued their wiues, children, &amp; goods more then themſelues, many hundreds of theſe people were conſumed by the fire. Now concerning thoſe who to ſaue their liues fled into the Ilands and fields adjoyning, in
+<pb n="7" facs="tcp:9153:7"/>
+               <!-- PDF PAGE 70 -->what a woefull and miſerable affliction were they? Theſe were beholding their Cittie in a lamentable Combuſtion. They were turning their eyes this way and that way, where ſometimes their habitations were: where they had goods, wiues, and children, brothers and ſiſters; fathers and mothers, coſens and friends; And all either conſumed, or in danger to be conſumed with fire. And to aggravate the bitternes of their heauie afflictions more, they heard out of the Cittie, hydeous and rufull cryes and clamors, which made them imagine all were vtterly periſhed and conſumed. Thus what the battell and fight of the birds did preſage and prognoſticate, fell out too true and dolefull, in the vtter ruine &amp; con<g ref="char:EOLhyphen"/>ſumption of a rich and wealthie Cittie. Vpon this ſo grievous an accident, it is ab<g ref="char:EOLhyphen"/>ſolutely neceſſary, that all the Citties and Townes of <hi>England</hi> and <hi>Ireland,</hi> ſhould make ſpeedie Vſe of ſo dreadfull an example. For they muſt conſider, the Saviour of Man<g ref="char:EOLhyphen"/>kinde in the xiij. of <hi>S. Luke,</hi> when he was told of the bloudy execution of the <hi>Galileans</hi> by <hi>Herod:</hi> Thinke you (ſayth Ieſus) that theſe
+<pb n="8" facs="tcp:9153:8"/>
+               <!-- PDF PAGE 71 -->
+               <hi>Galileans</hi> were ſinners, more then all the <hi>Ga<g ref="char:EOLhyphen"/>lileans,</hi> that they ſuffered ſuch things? No, But I ſay to you, vnleſſe you repent, you ſhall all likewiſe periſh. As thoſe xviij. vp<g ref="char:EOLhyphen"/>on whom the Tower fell in <hi>Siloe,</hi> and ſlew them: Thinke you they were ſinners a<g ref="char:EOLhyphen"/>boue all the men that dwell in <hi>Ieruſalem?</hi> No, I ſay to you, but except you repent, you ſhall all likewiſe periſh. By this our Saviour doth make it manifeſt, that ſome ſinners are puniſhed for examples ſake, that other who are guiltie of like ſinnes, may by ſpeedie Repentance pacifie the wrath of God, that he may ſpare his rod of Iu<g ref="char:EOLhyphen"/>ſtice. Theſe inhabitants of the Cittie of <hi>Corke,</hi> were not the onely and greateſt ſin<g ref="char:EOLhyphen"/>ners, aboue all other Citties of <hi>England</hi> or <hi>Ireland,</hi> but that other Citties are as grievous ſinners as they: But that God hath made an eſpeciall example in them, that others may be moved to Repentance, thereby to eſ<g ref="char:EOLhyphen"/>cape the heavic Iudgements of God vpon them for the like ſinnes. God is mercifull and long ſuffering, but if the offer of his mercy be not taken in due time, his Iuſtice falleth heavie where the offer of mercy is
+<pb n="9" facs="tcp:9153:8"/>
+               <!-- PDF PAGE 71 -->refuſed. The Battell of Birds over the Cit<g ref="char:EOLhyphen"/>tie being ſo ſtrange and wonderfull an ac<g ref="char:EOLhyphen"/>cident, might haue moved them to conſi<g ref="char:EOLhyphen"/>derations of Repentance, but they ſleighted it over; And now they find (which others may feare) it is good to lay hold on Mercy whileſt it is offered. ⸫</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
